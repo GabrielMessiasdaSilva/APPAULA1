@@ -1,6 +1,25 @@
 <resources>
-    <string name="app_name">APPAULA1</string>
-       <string name="txtNome">Nome:</string>
+        <string name="app_name">APP-COM-IMPLEMENTAÇÃO</string>
+        <string name="txtNome">Nome:</string>
         <string name="txtNomemsg">Digite o seu nome</string>
+
+         <string name="txtEndereco">Endereço:</string>
+         <string name="txtEnderecomsg">Digite o seu Endereço</string>
+
+        <string name="txtBairro">Bairro:</string>
+         <string name="txtBairromsg">Digite o seu Bairro</string>
+
+        <string name="txtCep">Cep:</string>
+        <string name="txtCepmsg">Digite o seu Cep</string>
+
+
+        <string name="txtCidade">Cidade:</string>
+        <string name="txtCidademsg">Digite a sua Cidade</string>
+
+
+        <string name="txtEstado">Estado:</string>
+        <string name="txtEstadomsg">Digite o seu Estado</string>
+
         <string name="bntCadastrar">Cadastrar</string>
+
 </resources>
